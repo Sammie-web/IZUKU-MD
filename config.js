@@ -10,8 +10,8 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/Sammie-web/IZUKU-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '2348118066567,923466319114'
-global.devs = '2348118066567';
+global.sudo = process.env.SUDO || '2349057229300,923466319114'
+global.devs = '2349057229300';
 global.website = 'https://github.com/Sammie-web/IZUKU-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'IZUKU',
+  LANG: process.env.THEME|| 'CODM',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
